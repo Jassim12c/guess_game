@@ -202,7 +202,6 @@ def help_list():
 
 
 def put_leaderboard():
-
     with open('easy.txt', 'a') as e_lfile:
         e_lfile.write(username + ":" + str(user_score['easy']) + "\n")
     with open('normal.txt', 'a') as n_lfile:
@@ -249,7 +248,7 @@ def leaderboard():
     """Leaderboard"""
 
     choose = input("""
-Choose:
+Which difficulty's leaderboard do you want to see:
     -Easy
     -Normal
     -Hard
@@ -278,8 +277,8 @@ def quit_game():
     """Quit Game"""
     put_leaderboard()
     # After quitting the program via typing "quit". the username and user's top scores will be taken and saved in .txt.
-    print("Thank you for playing!git ")
-    
+    print("Thank you for playing! Friend and Player!")
+
     user = f'{username}: {user_score}'
     with open('users.txt', 'a') as tfile:
         tfile.write(f"{user}\n")
