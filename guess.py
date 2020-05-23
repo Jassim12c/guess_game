@@ -247,26 +247,26 @@ def get_leaderboard(dif_text):
 def leaderboard():
     """Leaderboard"""
 
-    choose = input("""
+    leader_choose = input("""
 Which difficulty's leaderboard do you want to see:
     -Easy
     -Normal
     -Hard
 > """).lower()
 
-    if choose == "easy":
+    if leader_choose == "easy":
         easy_file = open("easy.txt", encoding="utf-8")
         easy_file_data = easy_file.read()
         easy_file.close()
         get_leaderboard(easy_file_data)
 
-    elif choose == "normal":
+    elif leader_choose == "normal":
         normal_file = open("normal.txt", encoding='utf-8')
         normal_file_data = normal_file.read()
         normal_file.close()
         get_leaderboard(normal_file_data)
 
-    elif choose == "hard":
+    elif leader_choose == "hard":
         hard_file = open("hard.txt", encoding='utf-8')
         hard_file_data = hard_file.read()
         hard_file.close()
