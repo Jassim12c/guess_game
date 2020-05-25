@@ -16,7 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338c2bb5-14af-42a4-9127-4a1d91696501" name="Default Changelist" comment="squash! Better wording in 'choose' input" />
+    <list default="true" id="338c2bb5-14af-42a4-9127-4a1d91696501" name="Default Changelist" comment="squash! Better wording in 'choose' input">
+      <change afterPath="$PROJECT_DIR$/delete.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -283,10 +285,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="add new file test.py for testing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1374" y="388" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590377590503">
+    <state x="1374" y="388" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590377632082">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1374" y="388" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1590377590503" />
+    <state x="1374" y="388" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1590377632082" />
     <state x="370" y="470" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588104778572">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -311,22 +313,22 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="299" y="508" key="FileDocumentManager.FileCacheConflict/0.0.2560.1440@0.0.2560.1440" timestamp="1588104267240" />
-    <state width="1256" height="245" key="GridCell.Tab.0.bottom" timestamp="1588455343888">
+    <state width="1256" height="379" key="GridCell.Tab.0.bottom" timestamp="1590377680981">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1256" height="245" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1588455343888" />
-    <state width="1256" height="245" key="GridCell.Tab.0.center" timestamp="1588455343888">
+    <state width="1256" height="379" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1590377680981" />
+    <state width="1256" height="379" key="GridCell.Tab.0.center" timestamp="1590377680981">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1256" height="245" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1588455343888" />
-    <state width="1256" height="245" key="GridCell.Tab.0.left" timestamp="1588455343887">
+    <state width="1256" height="379" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1590377680981" />
+    <state width="1256" height="379" key="GridCell.Tab.0.left" timestamp="1590377680980">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1256" height="245" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1588455343887" />
-    <state width="1256" height="245" key="GridCell.Tab.0.right" timestamp="1588455343888">
+    <state width="1256" height="379" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1590377680980" />
+    <state width="1256" height="379" key="GridCell.Tab.0.right" timestamp="1590377680981">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1256" height="245" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1588455343888" />
+    <state width="1256" height="379" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1590377680981" />
     <state width="1256" height="245" key="GridCell.Tab.1.bottom" timestamp="1588455343888">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
