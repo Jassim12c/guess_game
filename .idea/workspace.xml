@@ -45,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myclone" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -145,10 +145,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="680" y="320" width="1200" height="800" key="DiffContextDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1590379383109" />
-    <state x="1060" y="474" key="FileChooserDialogImpl" timestamp="1590381408168">
+    <state x="1060" y="474" key="FileChooserDialogImpl" timestamp="1590383194716">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1060" y="474" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1590381408168" />
+    <state x="1060" y="474" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1590383194716" />
     <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1590379986136">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
