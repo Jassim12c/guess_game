@@ -202,6 +202,7 @@ def help_list():
 
 
 def put_leaderboard():
+
     with open('easy.txt', 'a') as e_lfile:
         e_lfile.write(username + ":" + str(user_score['easy']) + "\n")
     with open('normal.txt', 'a') as n_lfile:
@@ -247,26 +248,26 @@ def get_leaderboard(dif_text):
 def leaderboard():
     """Leaderboard"""
 
-    leader_choose = input("""
-Which difficulty's leaderboard do you want to see:
+    choose = input("""
+Choose:
     -Easy
     -Normal
     -Hard
 > """).lower()
 
-    if leader_choose == "easy":
+    if choose == "easy":
         easy_file = open("easy.txt", encoding="utf-8")
         easy_file_data = easy_file.read()
         easy_file.close()
         get_leaderboard(easy_file_data)
 
-    elif leader_choose == "normal":
+    elif choose == "normal":
         normal_file = open("normal.txt", encoding='utf-8')
         normal_file_data = normal_file.read()
         normal_file.close()
         get_leaderboard(normal_file_data)
 
-    elif leader_choose == "hard":
+    elif choose == "hard":
         hard_file = open("hard.txt", encoding='utf-8')
         hard_file_data = hard_file.read()
         hard_file.close()
@@ -277,8 +278,8 @@ def quit_game():
     """Quit Game"""
     put_leaderboard()
     # After quitting the program via typing "quit". the username and user's top scores will be taken and saved in .txt.
-    print("Thank you for playing! Friend and Player!")
-
+    print("Thank you for playing!git ")
+    
     user = f'{username}: {user_score}'
     with open('users.txt', 'a') as tfile:
         tfile.write(f"{user}\n")
