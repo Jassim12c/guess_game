@@ -278,7 +278,7 @@ def quit_game():
     """Quit Game"""
     put_leaderboard()
     # After quitting the program via typing "quit". the username and user's top scores will be taken and saved in .txt.
-    print("Thank you for playing!git ")
+    print("Thank you for playing! Come back again!")
     
     user = f'{username}: {user_score}'
     with open('users.txt', 'a') as tfile:
