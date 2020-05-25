@@ -1,3 +1,4 @@
 ss: {'easy': 3, 'normal': 4, 'hard': 5}
 jassim: {'easy': 0, 'normal': 0, 'hard': 0}
 abudallah: {'easy': 2, 'normal': 1, 'hard': 5}
+qiit: {'easy': 0, 'normal': 0, 'hard': 0}

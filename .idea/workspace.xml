@@ -109,10 +109,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test.py" />
         <item itemvalue="Python.guess" />
         <item itemvalue="Python tests.Unittests in test.py" />
-        <item itemvalue="Python.guess" />
+        <item itemvalue="Python tests.Unittests in test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +230,17 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -273,10 +283,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="add new file test.py for testing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1374" y="388" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587164622765">
+    <state x="1374" y="388" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590377590503">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1374" y="388" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1587164622765" />
+    <state x="1374" y="388" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1590377590503" />
     <state x="370" y="470" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588104778572">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -333,10 +343,14 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1256" height="245" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1588455343888" />
-    <state x="1168" y="587" width="223" height="283" key="MultipleFileMergeDialog" timestamp="1590118601477">
+    <state x="26" y="134" key="MergeDialog" timestamp="1590377266865">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1168" y="587" width="223" height="283" key="MultipleFileMergeDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1590118601477" />
+    <state x="26" y="134" key="MergeDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1590377266865" />
+    <state x="724" y="587" width="667" height="283" key="MultipleFileMergeDialog" timestamp="1590377266869">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="724" y="587" width="667" height="283" key="MultipleFileMergeDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1590377266869" />
     <state x="1127" y="634" key="VCS.ChangelistChooser" timestamp="1590118759213">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
