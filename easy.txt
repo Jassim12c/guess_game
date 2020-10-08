@@ -2,3 +2,8 @@ ss:3
 jassim:0
 abudallah:2
 qiit:0
+abad:5
+muhhamed:3
+khalid:10
+f:0
+f:0

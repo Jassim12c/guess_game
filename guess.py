@@ -6,8 +6,16 @@ import sys
 import os
 import re
 
+def check_file_existence(file):
+    if not os.path.isfile(file):
+        open("users.txt", "x")
 
-# Clears stuff Terminal.
+check_file_existence("users.txt")
+check_file_existence("easy.txt")
+check_file_existence("normal.txt")
+check_file_existence("hard.txt")
+# Clears Terminal.
+
 
 def clear():
     if sys.platform == "win32":
@@ -202,7 +210,6 @@ def help_list():
 
 
 def put_leaderboard():
-
     with open('easy.txt', 'a') as e_lfile:
         e_lfile.write(username + ":" + str(user_score['easy']) + "\n")
     with open('normal.txt', 'a') as n_lfile:
@@ -234,7 +241,7 @@ def get_leaderboard(dif_text):
 
     b_d = zip(player_name, player_scores)
     b_d = list(b_d)
-    b_d.sort(key=sortSecond, reverse=True)
+    b_d.sort(key=sortSecond)
 
     for f in b_d:
         if f[1] == 0:
@@ -279,7 +286,7 @@ def quit_game():
     put_leaderboard()
     # After quitting the program via typing "quit". the username and user's top scores will be taken and saved in .txt.
     print("Thank you for playing! Come back again!")
-    
+
     user = f'{username}: {user_score}'
     with open('users.txt', 'a') as tfile:
         tfile.write(f"{user}\n")
