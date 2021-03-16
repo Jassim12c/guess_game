@@ -6,5 +6,5 @@
 Just a simple "guess the number" game. Made for practice.
 
 ## Technologies:
-* Python 3.8
+* Python 3.9
 
