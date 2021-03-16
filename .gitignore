@@ -1,8 +1,8 @@
-.idea/workspace.xml
-.idea/Guess_game.iml
-.idea/modules.xml
 easy.txt
 normal.txt
 hard.txt
 users.txt
 virenv
+virenv.idea/modules.xml
+virenv.idea/Guess_game.iml
+virenv.idea/workspace.xml
