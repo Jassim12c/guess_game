@@ -21,14 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b724bb0f-1734-4b14-ab3b-926d1c579f76" name="Default Changelist" comment="removed ok">
-      <change beforePath="$PROJECT_DIR$/.idea/Guess_game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Guess_game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/guess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/normal.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
