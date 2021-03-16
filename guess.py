@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from _collections import OrderedDict
+from collections import OrderedDict
 import random
 import sys
 import os
@@ -8,7 +8,7 @@ import re
 
 def check_file_existence(file):
     if not os.path.isfile(file):
-        open("users.txt", "x")
+        open(file, "x")
 
 check_file_existence("users.txt")
 check_file_existence("easy.txt")

@@ -21,10 +21,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b724bb0f-1734-4b14-ab3b-926d1c579f76" name="Default Changelist" comment="removed ok">
-      <change beforePath="$PROJECT_DIR$/easy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/easy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Guess_game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Guess_game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/guess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hard.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/normal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/normal.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/normal.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/users.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +101,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -195,30 +199,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="add file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="370" y="470" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602162159683">
+    <state x="370" y="470" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602163032631">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="370" y="470" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1602162159683" />
-    <state x="1060" y="474" key="FileChooserDialogImpl" timestamp="1597936286613">
+    <state x="370" y="470" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1602163032631" />
+    <state x="1060" y="474" key="FileChooserDialogImpl" timestamp="1602423165177">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1060" y="474" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1597936286613" />
-    <state width="1256" height="412" key="GridCell.Tab.0.bottom" timestamp="1602162161461">
+    <state x="1060" y="474" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1602423165177" />
+    <state width="1256" height="254" key="GridCell.Tab.0.bottom" timestamp="1602164021286">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1256" height="412" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1602162161461" />
-    <state width="1256" height="412" key="GridCell.Tab.0.center" timestamp="1602162161461">
+    <state width="1256" height="254" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1602164021286" />
+    <state width="1256" height="254" key="GridCell.Tab.0.center" timestamp="1602164021286">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1256" height="412" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1602162161461" />
-    <state width="1256" height="412" key="GridCell.Tab.0.left" timestamp="1602162161461">
+    <state width="1256" height="254" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1602164021286" />
+    <state width="1256" height="254" key="GridCell.Tab.0.left" timestamp="1602164021286">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1256" height="412" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1602162161461" />
-    <state width="1256" height="412" key="GridCell.Tab.0.right" timestamp="1602162161461">
+    <state width="1256" height="254" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1602164021286" />
+    <state width="1256" height="254" key="GridCell.Tab.0.right" timestamp="1602164021286">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1256" height="412" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1602162161461" />
+    <state width="1256" height="254" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1602164021286" />
     <state x="443" y="440" key="RollbackChangesDialog" timestamp="1594338372565">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
