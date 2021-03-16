@@ -3,6 +3,6 @@ normal.txt
 hard.txt
 users.txt
 virenv
-virenv.idea/modules.xml
-virenv.idea/Guess_game.iml
-virenv.idea/workspace.xml
+.idea/modules.xml
+.idea/Guess_game.iml
+.idea/workspace.xml
